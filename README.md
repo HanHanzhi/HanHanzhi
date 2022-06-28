@@ -9,7 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore. <p>Currently a Year 2 student at Nanyang Technological University</p>
+I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore. <p>Currently a Year 2 Computer Science student at Nanyang Technological University</p>
 
 
 - 🔭 I’m working as a Smart Contract Engineer intern at Mask Network.
