@@ -9,7 +9,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore. Currently a Year 2 student at Nanyang Technological University
+I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Singapore. <p>Currently a Year 2 student at Nanyang Technological University</p>
 
 
 - 🔭 I’m working as a Smart Contract Engineer intern at Mask Network.
@@ -21,7 +21,8 @@ I am a Smart Contract Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HanHanzhi&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HanHanzhi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
+
+### 🤔 &nbsp; My Notion : 
+Solidity Notion page : https://furtive-ptarmigan-923.notion.site/Smart-Contracts-94a4bc9fc0d1493caadef69e006d3f1c
 
